@@ -95,11 +95,11 @@ ns-baking --load-config path/to/output/config --baking_config.baking_path path/t
 If you use this repo or find the documentation useful for your research, please consider citing:
 
 ```
-@article{zeng2024oblique,
+@inproceedings{zeng2025oblique,
     title={Oblique-MERF: Revisiting and Improving MERF for Oblique Photography},
     author={Zeng, Xiaoyi and Song, Kaiwen and Yang, Leyuan and Deng, Bailin and Zhang, Juyong},
-    journal={arXiv preprint arXiv:2404.09531},
-    year={2024}
+    booktitle={International Conference on 3D Vision},
+    year={2025}
 }
 
 ```
